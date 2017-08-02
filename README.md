@@ -2,7 +2,7 @@
 
 All images where created with the Mandelbrot Viewer available at https://github.com/eobermuhlner/mandelbrot
 
-## Some Thumbnails
+## Thumbnails
 
 <img src="mandelbrot_2017-07-28T18_08_46.364.png" width="192" height="108">
 <img src="mandelbrot_2017-07-28T18_13_48.285.png" width="192" height="108">
@@ -51,4 +51,15 @@ All images where created with the Mandelbrot Viewer available at https://github.
 <img src="mandelbrot_2017-07-29T15_45_48.153.png" width="192" height="108">
 <img src="mandelbrot_2017-07-29T15_46_50.195.png" width="192" height="108">
 <img src="mandelbrot_2017-07-29T15_48_49.265.png" width="192" height="108">
+<img src="mandelbrot_2017-07-29T15_49_15.912.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_02_53.790.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_04_24.476.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_05_22.518.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_06_40.994.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_07_01.932.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_07_28.258.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_08_13.409.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_09_04.217.png" width="192" height="108">
+<img src="mandelbrot_2017-08-01T19_09_57.418.png" width="192" height="108">
+
 
