@@ -61,5 +61,14 @@ All images where created with the Mandelbrot Viewer available at https://github.
 <img src="images/192x120/mandelbrot_2017-08-01T19_08_13.409.png">
 <img src="images/192x120/mandelbrot_2017-08-01T19_09_04.217.png">
 <img src="images/192x120/mandelbrot_2017-08-01T19_09_57.418.png">
-
+<img src="images/192x120/mandelbrot_2017-08-01T20_04_38.880.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_05_18.577.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_06_29.876.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_07_06.532.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_29_21.687.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_29_41.742.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_31_02.019.png">
+<img src="images/192x120/mandelbrot_2017-08-01T20_31_47.872.png">
+<img src="images/192x120/mandelbrot_2017-08-02T11_40_42.888.png">
+<img src="images/192x120/mandelbrot_2017-08-02T11_45_21.435.png">
 
