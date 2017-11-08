@@ -1,0 +1,13 @@
+# Mandelbrot
+# https://github.com/eobermuhlner/mandelbrot
+
+version=1.1.0
+name=mandelbrot_2017-08-16T13_15_34.059
+x=0.031585154056593749999999999999999992759706718552
+y=0.687905863171802083333333333333333354808715705350
+zoom=1.3541666666666667
+paletteType=RandomColor
+paletteSeed=14
+paletteStep=20
+maxIterationsConst=1000
+maxIterationsLinear=1000
